@@ -38,8 +38,8 @@
             <li>Multiplayer</li>
         </ul>
       </div>
-
     </div>
+    <a href="/dubdub.zip" class="download">Download</a>
   </div>
 </template>
 
@@ -54,5 +54,20 @@ export default {};
     flex-direction: row;
     align-content: space-around;
     justify-content: space-around;
+}
+.download {
+  background: rgb(71, 71, 71);
+  width: 20vw;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #3cc3f0;
+  margin: auto;
+}
+.download:hover{
+  background: grey;
 }
 </style>

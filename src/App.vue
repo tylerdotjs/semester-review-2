@@ -1,21 +1,29 @@
 <template>
   <h1>2021 - 2022 Semester Review</h1>
-  <p>sample text</p>
+  <p style="margin-left: 100px">Hello, my name is Tyler LaPalm and welcome to my 2021-22 Semester Review Website.</p>
   <Math />
   <Career />
-
+  <SS />
+  <ELA />
+  <Other />
  
 </template>
 
 <script>
 import Career from './components/Career.vue'
+import ELA from './components/ELA.vue'
 import Math from './components/Math.vue'
+import Other from './components/Other.vue'
+import SS from './components/SS.vue'
 
 export default {
   name: 'App',
   components: {
     Career,
-    Math
+    Math,
+    SS,
+    ELA,
+    Other
   }
 }
 </script>
