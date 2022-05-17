@@ -4,7 +4,7 @@
     <p>My career is in programming so I saw it fit to combine these catagories.</p>
     <p>My main focus this year was to improve on my programming and career skills. So reflects on the size of this section in effort and content.</p>
     <img src="@/assets/ddTitle.png" alt="Dub Dub" height="200" style="margin-left: 2rem;">
-    <p>DubDub is the <a href="https://en.wikipedia.org/wiki/First-person_shooter">first person shooter</a>(fps) game that I have been working on this year. I have learned alot about Unity and furthered my coding skills. I have a blog site but I am still working on getting it hosted.</p>
+    <p>DubDub is the <a href="https://en.wikipedia.org/wiki/First-person_shooter">first person shooter</a>(fps) game that I have been working on this year. From this project, I have improved alot in using Unity. The devlog for this is project is still a work in progress.</p>
     <h2>Youth Apprenticeship</h2>
     <p>I have started working at <a href="https://www.mpu.org/">Manitowoc Public Utilities</a>(MPU) as an IT Intern with <a href="https://www.apprenticeship.gov/help/what-youth-apprenticeship">Youth Apprenticeship</a>(YA)
     At MPU. At MPU I create inhouse applications to automate tasks in order to save time and reduce errors.</p>
