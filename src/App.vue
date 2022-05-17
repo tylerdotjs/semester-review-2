@@ -1,6 +1,7 @@
 <template>
   <h1>2021 - 2022 Semester Review</h1>
-  <p style="margin-left: 100px">Hello, my name is Tyler LaPalm and welcome to my 2021-22 Semester Review Website.</p>
+  <p>Welcome to the Semester Review website of Tyler LaPalm.</p>
+  <p>What is a Semester Review? A Semester Review is the showcase of our work at <a href="https://www.denmark.k12.wi.us/schools/academy/">Denmark Viking Academy</a>(VA) in the form of a website.</p>
   <Math />
   <Career />
   <SS />
@@ -52,5 +53,14 @@ h1 {
 body {
   background: #093948;
   margin: 0;
+}
+h2 {
+  margin-left: 2rem;
+}
+p {
+  margin-left: 4rem;
+}
+a {
+  color: rgb(122, 122, 255);
 }
 </style>

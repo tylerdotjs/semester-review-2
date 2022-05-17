@@ -1,9 +1,6 @@
 <template>
 <h1>Math</h1>
-  <div class="math">
-    <img src="@/assets/aleksTopics.png" alt="Aleks Topics" :hidden="percentActive" @click="percentActive = true">
-    <img src="@/assets/aleksPercent.png" alt="Aleks percent" :hidden="!percentActive" @click="percentActive = false">
-  </div>
+    <p>I have compleated algebra 2 this year.</p>
 </template>
 
 <script>

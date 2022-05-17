@@ -1,45 +1,17 @@
 <template>
   <div>
-    <img src="@/assets/ddTitle.png" alt="Dub Dub" height="200">
-    <p style="margin-left: 20px">&nbsp;&nbsp;&nbsp;&nbsp; My friends and I have been working on this game this semester. We created it to learn the skills of game development and to earn school credit whilst making something interesting.</p>
-
-      <!--  Video of map -->
-    <video style="width: 100%;" aspect-ratio="16/9" controls>
-        <source :src='require("@/assets/videos/gameplay.mp4")' type="video/mp4" />
-        Your browser does not support the video tag.
-    </video>
-    <video style="width: 100%;" aspect-ratio="16/9" controls>
-        <source :src='require("@/assets/videos/mapShowcase.mp4")' type="video/mp4" />
-        Your browser does not support the video tag.
-    </video>
-    <div class="features">
-      <div>
-        <h2 style="width: 100%; text-align: center;">Features</h2>
-        <ul>
-            <li>Basic AI</li>
-            <li>Ruhzi(Gun)</li>
-            <li>1x Map</li>
-            <li>FPS Shooting</li>
-            <li>Curve Based Recoil</li>
-            <li>Inventory System</li>
-        </ul>
-      </div>
-      <div>
-        <h2>What's to come</h2>
-        <ul>
-            <li>Better AI</li>
-            <li>New Title Screen</li>
-            <li>Sound Effects</li>
-            <li>More maps</li>
-            <li>More guns</li>
-            <li>AI Models</li>
-            <li>Vehicles</li>
-            <li>Weapon Attachments</li>
-            <li>Multiplayer</li>
-        </ul>
-      </div>
-    </div>
-    <a href="/dubdub.zip" class="download">Download</a>
+    <h1>Career and Programming</h1>
+    <p>My career is in programming so I saw it fit to combine these catagories.</p>
+    <p>My main focus this year was to improve on my programming and career skills. So reflects on the size of this section in effort and content.</p>
+    <img src="@/assets/ddTitle.png" alt="Dub Dub" height="200" style="margin-left: 2rem;">
+    <p>DubDub is the <a href="https://en.wikipedia.org/wiki/First-person_shooter">first person shooter</a>(fps) game that I have been working on this year. I have learned alot about Unity and furthered my coding skills. I have a blog site but I am still working on getting it hosted.</p>
+    <h2>Youth Apprenticeship</h2>
+    <p>I have started working at <a href="https://www.mpu.org/">Manitowoc Public Utilities</a>(MPU) as an IT Intern with <a href="https://www.apprenticeship.gov/help/what-youth-apprenticeship">Youth Apprenticeship</a>(YA)
+    At MPU. At MPU I create inhouse applications to automate tasks in order to save time and reduce errors.</p>
+    <h2>Agile</h2>
+    <p>I am using tool Tello to manage my projects in an <a href="https://www.atlassian.com/agile">agile</a> way. I am using agile concepts today at MPU as they applies to the process of app development and magment within a team.</p>
+    <h2>Web</h2>
+    <p>This site is one example of my web dev skills. I am a full stack developer. Meaning I made every aspect of a website and manage it aswell. Some jobs include: database admin, dackend server dev, and frontend dev.</p>
   </div>
 </template>
 
