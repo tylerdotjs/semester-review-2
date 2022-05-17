@@ -1,6 +1,6 @@
 <template>
 <h1>Math</h1>
-    <p>I have compleated algebra 2 this year.</p>
+    <p>I have completed algebra 2 this year.</p>
 </template>
 
 <script>
