@@ -9,7 +9,7 @@
     <p>I have started working at <a href="https://www.mpu.org/">Manitowoc Public Utilities</a>(MPU) as an IT Intern with <a href="https://www.apprenticeship.gov/help/what-youth-apprenticeship">Youth Apprenticeship</a>(YA)
     At MPU. At MPU I create inhouse applications to automate tasks in order to save time and reduce errors.</p>
     <h2>Agile</h2>
-    <p>I am using tool Tello to manage my projects in an <a href="https://www.atlassian.com/agile">agile</a> way. I am using agile concepts today at MPU as they applies to the process of app development and magment within a team.</p>
+    <p>I am using tool <a href="https://trello.com/en-US">Trello</a>to manage my projects in an <a href="https://www.atlassian.com/agile">agile</a> way. I am using agile concepts today at MPU as they applies to the process of app development and magment within a team.</p>
     <h2>Web</h2>
     <p>This site is one example of my web dev skills. I am a full stack developer. Meaning I made every aspect of a website and manage it aswell. Some jobs include: database admin, dackend server dev, and frontend dev.</p>
   </div>
